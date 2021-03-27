@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eckonurcahyo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning HTML,CSS,PHP
 
 
 <!---
